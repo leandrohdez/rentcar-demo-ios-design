@@ -4,8 +4,7 @@ Developed example inspired by the design [Car Rental Mobile App](https://dribbbl
 
 ![Rent a Car demo](rent-car-demo.gif)
 
-#### Disclaimer
-This implementation is just for educational purposes and for my own programming practice.
+> **Disclaimer:_** This implementation is just for educational purposes and for my own programming practice.
 
 ## SOLID Principles
 The development of the project was carried out based on the principles of single responsibility of high cohesion and low coupling, collected as SOLID principles of software engineering. 
