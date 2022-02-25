@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>589780987845-lrun1g27dv6rbst1g92argmalfpu24td.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.589780987845-lrun1g27dv6rbst1g92argmalfpu24td</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCsEYA-qTVfYXH-HEwfyAF-K0IVXh_pLK0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>589780987845</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.antrax.RentCar</string>
+	<key>PROJECT_ID</key>
+	<string>rentcar-5244f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rentcar-5244f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:589780987845:ios:2bb279d6a993fce92065ac</string>
+</dict>
+</plist>
