@@ -1,15 +1,16 @@
 # Rent a Car (demo)
 
-Desarrollado ejemplo inspirado en el diseño (Car Rental Mobile App) creado por Dmitry Lauretsky. Aprovecho para felicitar a Dmitry por el excelente trabajo. 
+Developed example inspired by the design [Car Rental Mobile App](https://dribbble.com/shots/16327847-Car-Rental-Mobile-App?utm_source=Clipboard_Shot&utm_campaign=dlauretsky&utm_content=Car%20Rental%20Mobile%20App&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=dlauretsky&utm_content=Car%20Rental%20Mobile%20App&utm_medium=Social_Share) created by [Dmitry Lauretsky](https://dribbble.com/dlauretsky). I take this opportunity to congratulate Dmitry for the excellent work.
 
 #### Disclaimer
-La implementación únicamente tiene un carácter educativo y para mi propia práctica de programación.
+This implementation is just for educational purposes and for my own programming practice.
 
-## Principios SOLID 
-El desarrollo del proyecto se realizó basándose en los principios de responsabilidad única de alta cohesión y bajo acoplamiento, recogidos como principios SOLID de ingeniería de software.  
+## SOLID Principles
+The development of the project was carried out based on the principles of single responsibility of high cohesion and low coupling, collected as SOLID principles of software engineering. 
 
-## Arquitectura 
-Diseñado en una arquitectura multicapas, lo que constituye un sistema orientado a objetos organizados en varias capas o niveles. Cada una de estas capas o niveles contiene un conjunto de clases con responsabilidades relacionadas con la capa a la que pertenecen.  
+## Architecture
+Designed in a multilayer architecture, which constitutes an object-oriented system organized in several layers or levels. Each of these layers or levels contains a set of classes with responsibilities related to the layer to which they belong.  
 
-## Patrón de arquitectura  
-Para aprovechar estas ventajas me he apoyado en el lenguaje SwiftUI para la implementación de la capa de presentación, así como el patrón de arquitectura: Model-View-ViewModel (MVVM) que me permitió explotar todo su potencial. 
+## Architecture pattern
+To take advantage of these advantages, I have relied on the SwiftUI language for the implementation of the presentation layer, as well as the architecture pattern: **Model-View-ViewModel (MVVM)** that allowed me to exploit its full potential.
+
