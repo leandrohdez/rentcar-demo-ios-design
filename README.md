@@ -2,6 +2,8 @@
 
 Developed example inspired by the design [Car Rental Mobile App](https://dribbble.com/shots/16327847-Car-Rental-Mobile-App?utm_source=Clipboard_Shot&utm_campaign=dlauretsky&utm_content=Car%20Rental%20Mobile%20App&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=dlauretsky&utm_content=Car%20Rental%20Mobile%20App&utm_medium=Social_Share) created by [Dmitry Lauretsky](https://dribbble.com/dlauretsky). I take this opportunity to congratulate Dmitry for the excellent work.
 
+![Rent a Car demo](rent-car-demo.gif)
+
 #### Disclaimer
 This implementation is just for educational purposes and for my own programming practice.
 
